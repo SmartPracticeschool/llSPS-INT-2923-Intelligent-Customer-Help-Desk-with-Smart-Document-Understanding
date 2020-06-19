@@ -1,7 +1,7 @@
 # llSPS-INT-2923-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 
 
-1. Project Scope, Schedule, Team & Deliverables
+## 1. Project Scope, Schedule, Team & Deliverables
  
 ### Project Summary
 
