@@ -53,3 +53,9 @@ The project is scheduled for 4 weeks.
 
 ## WebApp Link:
 https://node-red-dwzus.eu-gb.mybluemix.net/ui/#!/0?socketid=kBL6zqzHnqjY5mX5AAAE
+
+## Project Demonstration Video:
+https://drive.google.com/file/d/1vB8ZH2Nr9Z29b6QSGCkjWgZGnycLy59h/view?usp=sharing
+
+## Feedback Video:
+https://drive.google.com/file/d/1fhCuXgqB1oXhmX4Dv_YatIBWe3qAJ1na/view?usp=sharing
